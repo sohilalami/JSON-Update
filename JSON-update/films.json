@@ -1,0 +1,74 @@
+[
+   {
+      "titel": "Ironman",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG",
+      "acteur": ["Robert Downey JR."],
+      "uitgave": "mei 2008",
+      "minuten": 124,
+      "taal": "Engels",
+      "prijs": 20.00
+   },
+   {
+      "titel": "Ironman",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/5/0/9/1002004009799054.jpg",
+      "acteur": ["Robert Downey JR."],
+      "uitgave": "maart 2010",
+      "minuten": 115,
+      "taal": "Engels",
+      "prijs": 25.00
+   },
+   {
+      "titel": "Ironman",
+      "cover": "https://i2.wp.com/studentenkrant.org/wp-content/uploads/2013/08/201213c.jpg?resize=800%2C1281",
+      "acteur": ["Robert Downey JR."],
+      "uitgave": "mei 2013",
+      "minuten": 104,
+      "taal": "Engels",
+      "prijs": 23.00
+   },
+   {
+      "titel": "Captain America",
+      "cover": "https://img01.mgo-images.com/image/thumbnail/v2/content/1MV93381be6d35cb42332e329351778273f.jpeg",
+      "acteur": ["Chris Evans"],
+      "uitgave": "juli 2011",
+      "minuten": 194,
+      "taal": "Engels",
+      "prijs": 22.00
+   },
+   {
+      "titel": "Captain America 2",
+      "cover": "https://4.bp.blogspot.com/-uH0PI9Tqmwo/UxKVa407WyI/AAAAAAAAAS8/lo1at1cfdm8/s1600/Captain+America+2+New+Suit+Poster.jpg",
+      "acteur": ["Chris Evans"],
+      "uitgave": "juli 2014",
+      "minuten": 173,
+      "taal": "Engels",
+      "prijs": 20.50
+   },
+   {
+      "titel": "Captain America 3",
+      "cover": "https://www9.parafabrika.today/pic/1/Dy01020-kaptan-amerika-3-civil-war-2016-s%C4%B1cak-film-film-24-x-36-afi%C5%9F/76351.jpg",
+      "acteur": ["Chris Evans"],
+      "uitgave": "juli 2016",
+      "minuten": 135,
+      "taal": "Engels",
+      "prijs": 25.99
+   },
+   {
+      "titel": "Avengers Infinity War",
+      "cover": "https://www.filmhoek.nl/wp-content/uploads/2018/04/avengers-infinity-war-imax-705x1024.jpg",
+      "acteur": ["Josh Brolin"],
+      "uitgave": "april 2018",
+      "minuten": 256,
+      "taal": "Nederlands",
+      "prijs": 30.00
+   },
+   {
+      "titel": "Avengers Endgame",
+      "cover": "https://images.pathe-thuis.nl/18867_450x640.jpg",
+      "acteur": ["Josh Brolin"],
+      "uitgave": "mei 2019",
+      "minuten": 267,
+      "taal": "Nederlands",
+      "prijs": 35.99
+   }
+]
